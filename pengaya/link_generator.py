@@ -1,6 +1,6 @@
 #(©)Codexbotz
-2
-dari  pyrogram  import  Client , filter
+
+dari   pyrogram   import   Client , filter
 dari  pirogram . jenis  impor  Pesan , InlineKeyboardMarkup , InlineKeyboardButton
 from bot import Bot
 from config import ADMINS
